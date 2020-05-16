@@ -1,0 +1,9 @@
+# Project related
+db.sqlite3
+
+# Python related
+.python-version
+*.py[co]
+
+# IDE related
+*.swp

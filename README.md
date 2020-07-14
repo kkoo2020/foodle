@@ -3,7 +3,7 @@
 ## Development
 
 After `git clone` and `cd` into the project directory, enter the following
-code to initialze development environment:
+code to initialize development environment:
 
 ```shell
 # install python 3.8.3

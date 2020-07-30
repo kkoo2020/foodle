@@ -37,6 +37,15 @@ pyenv rehash
 # perform db migration
 ./manage.py migrate
 
+# create superuser, run only once after the first migration
+./manage.py createsuperuser
+
 # run devserver
 ./manage.py runserver
+```
+
+To run all tests:
+
+```shell
+./manage.py test
 ```

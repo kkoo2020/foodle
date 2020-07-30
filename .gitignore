@@ -3,8 +3,10 @@ db.sqlite3
 
 # Python related
 .mypy_cache/
+__pycache__
 .python-version
 *.py[co]
+*.egg-info/
 
 # IDE related
 .vim/

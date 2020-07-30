@@ -44,7 +44,7 @@ pyenv rehash
 ./manage.py runserver
 ```
 
-To run tests:
+To run all tests:
 
 ```shell
 ./manage.py test

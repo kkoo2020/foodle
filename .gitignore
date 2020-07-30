@@ -6,6 +6,7 @@ db.sqlite3
 __pycache__
 .python-version
 *.py[co]
+*.egg-info/
 
 # IDE related
 .vim/
